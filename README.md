@@ -1,2 +1,2 @@
 # DataScience
-Files to improve my knowledge on DS
+Files and excercies to increase my knowledge on DS
